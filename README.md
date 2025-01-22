@@ -25,22 +25,27 @@ This Jupyter Notebook conducts a detailed analysis of funding distribution acros
 ### Heat Map by County per capita funding
 - **Visualization**: Create a heat map visualizing funding per capita by county using Folium and GeoJSON data.
 - **Tooltips**: Display tooltips with detailed information on funding, population, and funding per capita.
+- **Link to Map**: https://dstrick17.github.io/Senator-Markey-Grant-Analysis/heat_map_county_percapita_funding.html
 
 ### Heat Map by City per capita funding
 - **Visualization**: Create a heat map visualizing funding per capita by city.
 - **GeoJSON Integration**: Use GeoJSON data to enhance interactivity and visualization.
+- **Link to Map**: https://dstrick17.github.io/Senator-Markey-Grant-Analysis/heat_map_city_percapita_funding.html
 
 ### Heat Map by % of population that identifies as white for each city
 - **Visualization**: Create a heat map visualizing racial demographics by city.
 - **GeoJSON Integration**: Use GeoJSON data to enhance interactivity and visualization.
+- **Link to Map**: https://dstrick17.github.io/Senator-Markey-Grant-Analysis/heat_map_city_percent_white.html
 
 ### Heat Map by median household income for each city
 - **Visualization**: Create a heat map visualizing median household income by city.
 - **GeoJSON Integration**: Use GeoJSON data to enhance interactivity and visualization.
+- **Link to Map**: https://dstrick17.github.io/Senator-Markey-Grant-Analysis/heat_map_city_median_income.html
 
 ### Map by cluster analysis of race and income for cities in Massachusetts
 - **Visualization**: Create a heat map visualizing K-means clustering for cities in Massachusetts.
 - **GeoJSON Integration**: Use GeoJSON data to enhance interactivity and visualization.
+- **Link to Map**: https://dstrick17.github.io/Senator-Markey-Grant-Analysis/heat_map_cluster_city_race_income.html
 
 ## Clustering Analysis
 - **K-means Clustering**: Perform K-means clustering based on the percentage of the population identifying as White and median household income.
